@@ -1,0 +1,11 @@
+{
+  "name": "gonzaky/15_autoloading",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./app"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "^7.4"
+  }
+}
